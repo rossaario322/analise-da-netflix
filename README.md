@@ -1,4 +1,4 @@
-#Análise Exploratória do Catálogo Netflix
+Análise Exploratória do Catálogo Netflix
 
 Este projeto é uma análise exploratória do catálogo de filmes e séries da Netflix, feita em planilha (Google Sheets), usando tabelas dinâmicas para responder perguntas sobre o perfil do conteúdo disponibilizado pela plataforma.
 
